@@ -1,6 +1,4 @@
-var liczba = require(undefined);
-parseInt(liczba);
-function suma(liczba){
-  return liczba+liczba;
+var sum = (x,y) =>{
+  return x+y;
 };
-console.log(suma(liczba));
+console.log(suma());
