@@ -1,5 +1,3 @@
-var sum = (x, y) => {
-    return x + y;
-}
-
-console.log(sum(Number(x), Number(y)));
+Number(a);
+Number(b);
+console.log(a+b);
