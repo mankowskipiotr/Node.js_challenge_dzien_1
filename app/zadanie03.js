@@ -1,3 +1,4 @@
+var liczba = require(undefined);
 parseInt(liczba);
 function suma(liczba){
   return liczba+liczba;
