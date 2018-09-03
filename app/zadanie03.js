@@ -1,6 +1,3 @@
-process.argv.forEach((val, index) => {
-  const tab = [index];
-console.log(tab[2]+tab[3]);
-});
++var sum = (x, y) => x + y;
 
-
+console.log(sum(2, 4));
