@@ -1,4 +1,3 @@
-
-var suma = (x) =>{
-  return x+x;
-};
+process.argv.forEach((val, index) => {
+  console.log(`${index}: ${val}`);
+});
