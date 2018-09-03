@@ -1,3 +1,5 @@
-function(number1,number2){
-  console.log('${liczba1+liczba2}')
+parseInt(liczba);
+function suma(liczba){
+  return liczba+liczba;
 };
+console.log(suma(liczba));
