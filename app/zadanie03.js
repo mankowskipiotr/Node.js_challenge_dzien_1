@@ -1,5 +1,3 @@
-function suma(...args){
-  console.log(args+args);
-}
-suma(args);
-              
+var sum = (x, y) => x + y;
+
+console.log(sum(2, 4));
