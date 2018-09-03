@@ -1,3 +1,5 @@
-var sum = (x, y) => x + y;
+process.argv.forEach((val, index) => {
+});
 
-console.log(sum(2, 4));
+const tab[index] = [];
+console.log(tab[2]+tab[3]);
