@@ -1,1 +1,1 @@
-console.log(parseInt(liczba)+parseInt(liczba));
+console.log(parseInt(tab[2])+parseInt(tab[3]));
