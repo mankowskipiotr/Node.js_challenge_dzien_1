@@ -1,3 +1,5 @@
-
-var tab = index;
-console.log(parseInt(tab[2])+parseInt(tab[3]));
+function suma(...args){
+  console.log(args+args);
+}
+suma(args);
+              
