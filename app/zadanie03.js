@@ -1,4 +1,4 @@
-var suma = (x,y) =>{
-  return x+y;
+var suma = (x) =>{
+  return x+x;
 };
-console.log(suma());
+console.log(suma(x));
